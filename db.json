@@ -1,66 +1,14 @@
 {
   "todoList": [
     {
-      "text": "asdfadsf",
-      "isDone": true,
-      "id": 9,
-      "status": "delete_data"
-    },
-    {
-      "text": "asdf",
+      "text": "get milk",
       "isDone": false,
-      "id": 12
-    },
-    {
-      "text": "assdf",
-      "isDone": false,
-      "id": 13
-    },
-    {
-      "text": "asdf",
-      "isDone": false,
-      "id": 14
-    },
-    {
-      "text": "asdf",
-      "isDone": false,
-      "id": 15
-    },
-    {
-      "text": "dsfads",
-      "isDone": false,
-      "id": 16
-    },
-    {
-      "text": "task 1",
-      "isDone": false,
-      "id": 17
-    }
-  ],
-  "city": [
-    {
-      "name": "Delhi",
       "id": 1
     },
     {
-      "name": "Mumbai",
+      "text": "learn react",
+      "isDone": false,
       "id": 2
-    },
-    {
-      "name": "Kolkata",
-      "id": 3
-    },
-    {
-      "name": "Chennai",
-      "id": 4
-    },
-    {
-      "name": "Noida",
-      "id": 5
-    },
-    {
-      "name": "Gurgaon",
-      "id": 6
     }
   ]
 }
